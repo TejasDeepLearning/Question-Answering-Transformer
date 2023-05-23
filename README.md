@@ -1,6 +1,6 @@
 # Question Answering Model using Transformers
 
-![alt text](qa_model_image.png)
+![alt text](qa.png)
 
 This repository contains code for training a Question Answering (QA) model using the Hugging Face Transformers library. The model is trained on the Stanford Question Answering Dataset (SQuAD).
 
